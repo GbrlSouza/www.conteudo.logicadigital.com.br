@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="153" viewBox="0 0 128 153">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_39" data-name="Retângulo 39" width="128" height="153" transform="translate(0 -0.204)" fill="#52a8fe"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_7" data-name="Grupo 7" transform="translate(0 -0.295)">
+    <rect id="Retângulo_25" data-name="Retângulo 25" width="6" height="6" transform="translate(16 115.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_26" data-name="Retângulo 26" width="32" height="6" transform="translate(48 70.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_27" data-name="Retângulo 27" width="32" height="6" transform="translate(48 89.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_28" data-name="Retângulo 28" width="32" height="7" transform="translate(48 108.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_29" data-name="Retângulo 29" width="32" height="7" transform="translate(48 127.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_30" data-name="Retângulo 30" width="6" height="7" transform="translate(16 76.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_31" data-name="Retângulo 31" width="6" height="7" transform="translate(16 63.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_32" data-name="Retângulo 32" width="6" height="6" transform="translate(16 89.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_33" data-name="Retângulo 33" width="6" height="6" transform="translate(16 102.295)" fill="#52a8fe"/>
+    <rect id="Retângulo_34" data-name="Retângulo 34" width="6" height="7" transform="translate(16 127.295)" fill="#52a8fe"/>
+    <g id="Grupo_6" data-name="Grupo 6" transform="translate(0 0.499)">
+      <g id="Grupo_5" data-name="Grupo 5" clip-path="url(#clip-path)">
+        <path id="Caminho_2" data-name="Caminho 2" d="M124.518,60.662h-3.193V47.891a3.19,3.19,0,0,0-3.193-3.193H89.4V41.506A3.19,3.19,0,0,0,86.2,38.313H76.626V25.542a3.19,3.19,0,0,0-3.193-3.193H67.048V0H60.662V22.349H54.277a3.192,3.192,0,0,0-3.193,3.193V38.313H41.506a3.192,3.192,0,0,0-3.193,3.193V54.277H35.12a3.192,3.192,0,0,0-3.193,3.193v89.4H6.386V46.02L38.313,14.093V35.12H44.7V12.771a3.179,3.179,0,0,0-.935-2.257L40.57,7.321a3.189,3.189,0,0,0-4.515,0L.935,42.441A3.179,3.179,0,0,0,0,44.7V150.06a3.192,3.192,0,0,0,3.193,3.193H31.928V150.06a3.192,3.192,0,0,0,3.193,3.193h89.4a3.19,3.19,0,0,0,3.193-3.193v-86.2a3.19,3.19,0,0,0-3.193-3.193M57.47,28.735H70.241v9.578H57.47ZM44.7,44.7H83.012v9.578H44.7ZM89.4,146.867H38.313v-86.2H89.4Zm0-92.59V51.084h25.542v9.578H95.783V57.47a3.19,3.19,0,0,0-3.193-3.193Zm31.928,92.59H95.783V67.048h25.542Z" transform="translate(0 -0.456)" fill="#52a8fe"/>
+        <rect id="Retângulo_35" data-name="Retângulo 35" width="7" height="9" transform="translate(105 92.796)" fill="#52a8fe"/>
+        <rect id="Retângulo_36" data-name="Retângulo 36" width="7" height="10" transform="translate(105 75.796)" fill="#52a8fe"/>
+        <rect id="Retângulo_37" data-name="Retângulo 37" width="7" height="10" transform="translate(105 107.796)" fill="#52a8fe"/>
+        <rect id="Retângulo_38" data-name="Retângulo 38" width="7" height="10" transform="translate(105 126.796)" fill="#52a8fe"/>
+      </g>
+    </g>
+  </g>
+</svg>
