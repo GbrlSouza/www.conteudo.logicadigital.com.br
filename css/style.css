@@ -1,0 +1,14 @@
+*, body, footer, header, a, span {
+    color: #fff
+}
+
+body {
+    background-image: url('./../assets/img/bg.png');
+    width: 100%;
+}
+
+footer a { color: #fff }
+
+@media (max-width: 1024px) {
+    img.bi { width: 50px; }
+}
